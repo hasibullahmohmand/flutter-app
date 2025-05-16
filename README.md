@@ -1,4 +1,3 @@
-```markdown
 # 🧴 Skin Disease Prediction App
 
 A responsive Flutter mobile application developed as part of a university-led project under faculty mentorship. The app supports early-stage skin disease data collection and image review by medical professionals to build a high-quality dataset for training an AI prediction model.
@@ -20,7 +19,6 @@ This app streamlines the workflow for collecting and approving skin disease imag
 - 👨‍⚕️ **Doctor Interface** – Doctors can view pending images, approve/reject them, and provide descriptions  
 - 🧠 **AI Dataset Pipeline** – Approved images are tagged and stored for later use in machine learning  
 - 🎨 **Clean UI/UX** – Built with usability and scalability in mind, using best practices in Flutter
-cs
 
 ## 🧩 Tech Stack
 
@@ -32,13 +30,11 @@ cs
 ## 📁 Project Structure
 
 ```
-
-lib/\n
+lib/
 │
 ├── screens/           # UI screens (Login, Register, Pending, Approved, etc.)
 └── main.dart          # App entry point
-
-````
+```
 
 ## 🔮 Future Work
 
@@ -50,30 +46,28 @@ lib/\n
 ## 👥 Team & Contribution
 
 - **Frontend Developer**: Hasibullah Mohmand – Focused on UI development, API integration, and user workflows  
-- **Backend Developer**: Aboubacar Sow - Backend Development
-- **Mentorship**: Guided by [Samet Diri], Kocaeli University
+- **Backend Developer**: Aboubacar Sow – Backend development  
+- **Mentorship**: Guided by Samet Diri, Kocaeli University
 
 ## 📌 How to Run
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/skin-disease-predictor.git
-````
+   cd skin-disease-predictor
+   ```
 
 2. Install dependencies:
-
    ```bash
-   flutter pub get (Will be uploaded later)
+   flutter pub get
    ```
 
 3. Run the app:
-
    ```bash
    flutter run
    ```
 
 4. Ensure your backend API server is running and accessible.
-
 
 ---
 
