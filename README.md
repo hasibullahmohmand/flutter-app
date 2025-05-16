@@ -33,7 +33,7 @@ cs
 
 ```
 
-lib/
+lib/\n
 │
 ├── screens/           # UI screens (Login, Register, Pending, Approved, etc.)
 └── main.dart          # App entry point
@@ -78,5 +78,3 @@ lib/
 ---
 
 *Developed with ❤️ under university mentorship.*
-
-```
