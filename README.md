@@ -80,5 +80,3 @@ lib/
 *Developed with ❤️ under university mentorship.*
 
 ```
-
----
